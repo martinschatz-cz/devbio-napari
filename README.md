@@ -110,7 +110,7 @@ Afterwards, activate the environment like this:
 Afterwards, run this command from the command line
 
 ```
-naparia
+napari
 ```
 
 This window should open. It shows the [Assistant](https://www.napari-hub.org/plugins/napari-assistant) graphical user interface. 
